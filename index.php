@@ -36,7 +36,7 @@
                             <textarea name="mensagem" class="form-control" id="mensagem" placeholder="Mensagem do email"></textarea>
                         </div>
 
-                        <button type="submit" class="btn btn-primary btn-block btn-lg">Enviar Email</button>
+                        <button type="submit" class="btn btn-Secondary btn-block">Enviar Email</button>
                     </form>
                 </div>
             </div>
